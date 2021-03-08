@@ -8,12 +8,18 @@
 		body { color:#fff;background:#000 }
 		a { color: #9cf }
 }
-body { margin: 1em auto; max-width: 40em; padding: 0 .64em; line-height:1.6; font-size:18px; }
+body { margin: 1em auto; max-width: 40em; padding: 0 .64em; line-height:1.6; font-size: 18px; }
 h1, h2, h3, h4 { line-height:1.2; }
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 #menu, footer { text-align: center; }
 #menu a { padding: 0.5ex 2ex; }
+main {
+	min-height: calc(100vh - 150px);
+}
+footer{
+	height: 50px;
+}
 	</style>
 </head>
 <body>
@@ -24,7 +30,7 @@ a:hover { text-decoration: underline; }
 <a href="https://github.com/romanwojciechowski">github</a>
 </div>
 	</header>
-<h2>sup, i'm roman</h2>
+<main><h2>sup, i'm roman</h2>
 <h4>16 y/o <i><b>linux enthusiast</b></i>, learning c. creating tools from time to time.</h4>
 <hr>
 <h4>Interests</h4>
@@ -41,7 +47,8 @@ Malcolm McDowell, Aaron Paul, Rami Malek, Benedict Cumberbatch, Brad Pitt
 <strong>Directors:</strong>
 Krzystof Kieslowski, David Fincher, Sam Esmail
 </p>
-	<footer>
+<div id="push"></div>
+</main>	<footer>
 <hr>
 <i><b>hmu</b></i> on <a href="https://t.me/gonna_be_clever">telegram</a> or e-mail - romanwojciechowski@tutanota.com
 	</footer>
