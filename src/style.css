@@ -2,16 +2,40 @@
 	body { color:#fff; background:#000 }
 	a { color: #9cf }
 }
+
+@media print {
+	body {
+		max-width: none;
+	}
+}
+
 body { 
 	margin: 1em auto; 
 	max-width: 40em; 
 	padding: 0 .64em; 
-	line-height:1.6; 
-	font-size: 18px; 
+	font: 1.4em/1.62 monospace;
 }
-h1, h2, h3, h4 { line-height:1.2; }
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-#menu, footer { text-align: center; }
-#menu a { padding: 0.5ex 2ex; }
-footer{ text-align: center; }
+
+h1, h2, h3 { 
+	line-height:1.2; 
+}
+
+a { 
+	text-decoration: none; 
+}
+
+a:hover { 
+	text-decoration: underline; 
+}
+
+#menu { 
+	text-align: center; 
+}
+
+#menu a { 
+	padding: 0.5ex 2ex; 
+}
+
+footer {
+	margin-top: 2.5em;
+}
