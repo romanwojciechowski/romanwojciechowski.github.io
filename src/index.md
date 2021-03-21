@@ -7,10 +7,12 @@
   
 **Music:** Nill', Nirvana, Radiohead, Alexander Nakarada, Queen, Kino, pasosh, Current Joys, Bach   
   
-**Movies:** Fight Club, Seven, Into the Wild, Buster's Mal Heart  
+**Films:** Fight Club, Seven, Into the Wild, Buster's Mal Heart  
   
 **Tv:** Mr. Robot, Breaking Bad, Better Call Saul, Sherlock   
 
 **Actors:** Malcolm McDowell, Aaron Paul, Rami Malek, Benedict Cumberbatch, Brad Pitt  
   
-**Directors:** Krzystof Kieslowski, David Fincher, Sam Esmail
+**Directors:** Krzystof Kieslowski, David Fincher, Sam Esmail  
+  
+**Scientists:** Richard Feynman, Ken Thompson
