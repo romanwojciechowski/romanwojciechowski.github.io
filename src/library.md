@@ -21,5 +21,6 @@ This is a list of books I own. I haven't read every book here. I use some of the
 - ***Rick Riordan*** - The Heroes of Olympus
 - ***Stephan Prata*** - C++ Primer Plus
 - ***Stephen Hawking*** - A Brief History of Time
+- ***Vladimir Nabokov*** - Lolita
 - ***Winston Groom*** - Forrest Gump
 - ***Yuyuko Takemiya*** - Toradora 1-3
